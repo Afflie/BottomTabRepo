@@ -11,7 +11,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>Dette er en endring</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
+        <Text style={styles.instructions}>To get TEST App.js</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
     );
